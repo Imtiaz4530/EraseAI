@@ -65,10 +65,10 @@ Authentication: Clerk
 
 ### Patient Portal
 
-![HOME PAGE](./client/public/HomeErase.png)
-![RESULT PAGE](./client/public/ResultErase.png)
-![PURCHASE PAGE](./client/public/PurchaseErase.png)
-![LOGIN PAGE](./client/public/LoginErase.png)
+![HOME PAGE](./client/src/assets/HomeErase.png)
+![RESULT PAGE](./client/src/assets/ResultErase.png)
+![PURCHASE PAGE](./client/src/assets/PurchaseErase.png)
+![LOGIN PAGE](./client/src/assets/LoginErase.png)
 
 ## Contributing
 
