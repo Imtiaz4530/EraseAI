@@ -1,34 +1,21 @@
 ## 🌟 ERASE.AI Background Removal AI Application
+
 An advanced AI-powered background removal tool built using Node.js, the MERN stack, and Tailwind CSS, leveraging the Clipdrop API from Remove.bg for seamless background removal. The application includes user authentication implemented with Clerk, a modern and secure authentication system.
 
-<<<<<<< HEAD
-🚀 Features
-AI-Powered Background Removal: Quickly and accurately remove image backgrounds using the Clipdrop API.
-User Authentication: Modern and secure login and access control powered by Clerk.
-Responsive UI: Tailwind CSS ensures a clean and responsive design.
-Full-Stack Solution: Built with the MERN stack (MongoDB, Express.js, React, Node.js).
+## 🚀 Features
 
-🔧 Technologies Used
-Frontend: React, Tailwind CSS
-Backend: Node.js, Express.js
-Database: MongoDB
-API: Clipdrop API
-Authentication: Clerk
-=======
-## 🚀 Features  
-- **AI-Powered Background Removal**: Quickly and accurately remove image backgrounds using the Clipdrop API.  
-- **User Authentication**: Modern and secure login and access control powered by Clerk.  
-- **Responsive UI**: Tailwind CSS ensures a clean and responsive design.  
-- **Full-Stack Solution**: Built with the MERN stack (MongoDB, Express.js, React, Node.js).  
+- **AI-Powered Background Removal**: Quickly and accurately remove image backgrounds using the Clipdrop API.
+- **User Authentication**: Modern and secure login and access control powered by Clerk.
+- **Responsive UI**: Tailwind CSS ensures a clean and responsive design.
+- **Full-Stack Solution**: Built with the MERN stack (MongoDB, Express.js, React, Node.js).
 
-## 🔧 Technologies Used  
-- **Frontend**: React, Tailwind CSS  
-- **Backend**: Node.js, Express.js  
-- **Database**: MongoDB  
-- **API**: Clipdrop API  
-- **Authentication**: Clerk  
+## 🔧 Technologies Used
 
->>>>>>> aa84a185e97854d649ef3c259a821a188543b374
+- **Frontend**: React, Tailwind CSS
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB
+- **API**: Clipdrop API
+- **Authentication**: Clerk
 
 🖼️ How It Works
 
@@ -81,6 +68,7 @@ Authentication: Clerk
    ```
 
 ## Screenshots
+
 ![HOME PAGE](./client/src/assets/HomeErase.png)
 ![RESULT PAGE](./client/src/assets/ResultErase.png)
 ![PURCHASE PAGE](./client/src/assets/PurchaseErase.png)
