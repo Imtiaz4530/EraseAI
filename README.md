@@ -1,18 +1,19 @@
-🌟 ERASE.AI Background Removal AI Application
+## 🌟 ERASE.AI Background Removal AI Application
 An advanced AI-powered background removal tool built using Node.js, the MERN stack, and Tailwind CSS, leveraging the Clipdrop API from Remove.bg for seamless background removal. The application includes user authentication implemented with Clerk, a modern and secure authentication system.
 
-🚀 Features
-   AI-Powered Background Removal: Quickly and accurately remove image backgrounds using the Clipdrop API.
-   User Authentication: Modern and secure login and access control powered by Clerk.
-   Responsive UI: Tailwind CSS ensures a clean and responsive design.
-   Full-Stack Solution: Built with the MERN stack (MongoDB, Express.js, React, Node.js).
+## 🚀 Features  
+- **AI-Powered Background Removal**: Quickly and accurately remove image backgrounds using the Clipdrop API.  
+- **User Authentication**: Modern and secure login and access control powered by Clerk.  
+- **Responsive UI**: Tailwind CSS ensures a clean and responsive design.  
+- **Full-Stack Solution**: Built with the MERN stack (MongoDB, Express.js, React, Node.js).  
 
-🔧 Technologies Used
-   Frontend: React, Tailwind CSS
-   Backend: Node.js, Express.js
-   Database: MongoDB
-   API: Clipdrop API
-   Authentication: Clerk
+## 🔧 Technologies Used  
+- **Frontend**: React, Tailwind CSS  
+- **Backend**: Node.js, Express.js  
+- **Database**: MongoDB  
+- **API**: Clipdrop API  
+- **Authentication**: Clerk  
+
 
 🖼️ How It Works 
    1. Upload an Image: Users can upload an image through a simple, intuitive UI.
