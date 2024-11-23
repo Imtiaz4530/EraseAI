@@ -64,9 +64,6 @@ An advanced AI-powered background removal tool built using Node.js, the MERN sta
    ```
 
 ## Screenshots
-
-### Patient Portal
-
 ![HOME PAGE](./client/src/assets/HomeErase.png)
 ![RESULT PAGE](./client/src/assets/ResultErase.png)
 ![PURCHASE PAGE](./client/src/assets/PurchaseErase.png)
